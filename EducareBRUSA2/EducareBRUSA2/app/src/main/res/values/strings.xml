@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EducareBRUSA</string>
+    <string name="email">cs@educarebrudsa.com</string>
+    <string name="url">http://www.educarebrusa.com</string>
+    <string name="description">Printable. Editable. Creative and Common Core State Standard Educational Resources for Pre-K.</string>
+    <string name="img_desc">Child writing on paper.</string>
+    <string name="logo_desc">EducareBRUSA logo.</string>
+    <string name="logo_fb">FaceBook logo.</string>
+    <string name="facebook_link">https://www.facebook.com/educarebrusa/</string>
+</resources>
